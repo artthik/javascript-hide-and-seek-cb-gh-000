@@ -9,3 +9,7 @@ function nestedTarget(){
 function deepestChild(){
   return 0;
 }
+
+function increaseRankBy(n) {
+  
+}
